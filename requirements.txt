@@ -1,0 +1,5 @@
+streamlit
+requests
+wikipedia-api
+openai
+dotenv
